@@ -1,2 +1,9 @@
-https://github.com/malinichelseka/50-command-Ubuntu/tree/main
-https://github.com/malinichelseka/Download-DOCX-Tugas-Sistem-Operasi
+# Tugas Sistem Operasi
+
+**Nama:**Malini Chelseka
+**NIM:**09011382530123
+**Kelas:** SKU3A## 
+
+Download Tugas
+
+[📥 Download DOCX Tugas Sistem Operasi](https://github.com/malinichelseka/Download-DOCX-Tugas-Sistem-Operasi)
